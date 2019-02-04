@@ -2,8 +2,8 @@ library sliver_fill_remaining_box_adapter;
 
 import 'dart:math' as math;
 
-import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
+import 'package:flutter/widgets.dart';
 
 class SliverFillRemainingBoxAdapter extends SingleChildRenderObjectWidget {
   const SliverFillRemainingBoxAdapter({
